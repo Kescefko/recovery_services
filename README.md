@@ -1,2 +1,8 @@
+# prerequisites
+azure powershell
+powershell
+
 # recovery_services
-configure azure recovery services vault
+stops the vm backup
+deletes the backup
+deletes rsv
